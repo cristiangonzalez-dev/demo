@@ -1,0 +1,46 @@
+{
+    "title": "Que Ofrenda Le Daras",
+    "media": [
+        {
+            "file": "Que Ofrenda le daras.mp3",
+            "type": "audio",
+            "feature": true,
+            "title": "Que Ofrenda le daras.mp3"
+        },
+        {
+            "file": "cuando el señor me llamo fue para siempre.mp3",
+            "type": "audio",
+            "title": "cuando el señor me llamo fue para siempre.mp3"
+        },
+        {
+            "file": "El Peleara Tus Batallas.mp3",
+            "type": "audio",
+            "title": "El Peleara Tus Batallas.mp3"
+        }
+    ],
+    "cover": "a.png",
+    "theme": {
+        "titleStyle": "span",
+        "backgroundColor": "#a586bdfc",
+        "primaryColor": "#ffffff",
+        "primaryAltColor": "#838383",
+        "secondaryColor": "#000000",
+        "highlightColor": "#434343",
+        "primaryTextColor": "#ffffff",
+        "primaryAltTextColor": "#838383",
+        "previewStripeColor1": "#3f3f3f",
+        "previewStripeColor2": "#2c2c2c",
+        "linkColor": "#004cff",
+        "layoutStyle": "vertical",
+        "infoStyle": "overlaid",
+        "overlayTextColor": "#ffffff",
+        "overlayBackgroundColor": "#00000080",
+        "hideInfoDropdown": false,
+        "contentWidth": "400",
+        "coverSize": "480",
+        "nativePlayer": false,
+        "customCSS": ""
+    },
+    "description": "<p><a href=\"https://www.youtube.com/watch?v=4ULjv_hhNeg\" title=\"Video\" target=\"Video\">Video</a></p>",
+    "loopModeDefault": "none"
+}
